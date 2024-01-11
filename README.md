@@ -8,3 +8,4 @@ I've created this repository to force myself to finish this course, I'll be uplo
 
 - [Day 1: Working with Variables in Python to Manage Data](https://github.com/xbjavier/100-days-of-python/tree/main/Day01)
 - [Day 2: Understanding Data Types and How to Manipulate String](https://github.com/xbjavier/100-days-of-python/tree/main/Day02)
+- [Day 3: Control Flow and Logical Operators](https://github.com/xbjavier/100-days-of-python/tree/main/Day03)
