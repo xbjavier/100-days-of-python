@@ -13,3 +13,4 @@ I've created this repository to force myself to finish this course, I'll be uplo
 - [Day 5: Python Loops](https://github.com/xbjavier/100-days-of-python/tree/main/Day05)
 - [Day 6: Python functions and Karel - this one was done on reeborgs'world](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 - [Day 7: Hangman](https://github.com/xbjavier/100-days-of-python/tree/main/Day07)
+- [Day 8: Function Parameters & Caesar Cipher](https://github.com/xbjavier/100-days-of-python/tree/main/Day08)
