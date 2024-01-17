@@ -16,3 +16,4 @@ I've created this repository to force myself to finish this course, I'll be uplo
 - [Day 8: Function Parameters & Caesar Cipher](https://github.com/xbjavier/100-days-of-python/tree/main/Day08)
 - [Day 9: Dictionaries, Nesting and the Secret Auction](https://github.com/xbjavier/100-days-of-python/tree/main/Day09)
 - [Day 10: Functions with outputs](https://github.com/xbjavier/100-days-of-python/tree/main/Day10)
+- [Day 11: Blackjack](https://github.com/xbjavier/100-days-of-python/tree/main/Day11)
