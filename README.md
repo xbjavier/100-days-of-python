@@ -19,3 +19,4 @@ I've created this repository to force myself to finish this course, I'll be uplo
 - [Day 11: Blackjack](https://github.com/xbjavier/100-days-of-python/tree/main/Day11)
 - [Day 12: Number Guessing Game](https://github.com/xbjavier/100-days-of-python/tree/main/Day12)
 - [Day 14: Higher Lower Game](https://github.com/xbjavier/100-days-of-python/tree/main/Day14)
+- [Day 15: Coffee Machine](https://github.com/xbjavier/100-days-of-python/tree/main/Day15)
