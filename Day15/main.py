@@ -83,10 +83,3 @@ while(True):
     # prepare coffee a.k.a remove resources
     prepare_coffee(flavour_details)
     print(f"your {flavour} is ready, beware is hot... ☕️")
-
-
-
-    
-
-
-
