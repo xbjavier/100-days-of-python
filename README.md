@@ -21,4 +21,4 @@ I've created this repository to force myself to finish this course, I'll be uplo
 - [Day 14: Higher Lower Game](https://github.com/xbjavier/100-days-of-python/tree/main/Day14)
 - [Day 15: Coffee Machine](https://github.com/xbjavier/100-days-of-python/tree/main/Day15)
 - [Day 16: OOP Coffee Machine](https://github.com/xbjavier/100-days-of-python/tree/main/Day16)
-- [Day 17: Quiz Project](https://github.com/xbjavier/100-days-of-python/tree/main/Day17)
+- [Day 17: Quiz Project](https://github.com/xbjavier/100-days-of-python/tree/main/Day17) - This is not exactly the same as in the course, I have uppdated the code to use [open trivia database api](https://opentdb.com/api_config.php)

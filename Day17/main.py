@@ -1,24 +1,27 @@
 from data import question_data
 from question_model import Question
 from quiz_brain import QuizBrain
+from trivia_brain import TriviaBrain
+import aiohttp
+import asyncio
 
 question_bank = []
 
 for question in question_data:
     question_bank.append(Question(question["text"], question["answer"]))
 
-brain = QuizBrain(question_bank)
 
-while True:
-    question = brain.NextQuestion()
+brain = TriviaBrain()
 
-    if not question:
-        break
 
-    answer = (
-        True
-        if input(f"\nQ.{brain.question_number}: {question.text}? y/n\n> ") == "y"
-        else False
-    )
-    brain.IsRightAnswer(question, answer)
-    print(f"{brain.correct_answers} correct of {brain.question_number} asked\n")
+async def main_loop():
+    while True:
+        await brain.new_game()
+        brain.main_loop()
+        print(f"You answered {brain.correct_answers} out of {brain.total_questions}\n")
+        play_again = input("play again? y/n\n> ")
+        if play_again != "y":
+            break
+
+
+asyncio.run(main_loop())
