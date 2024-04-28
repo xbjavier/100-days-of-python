@@ -37,10 +37,8 @@ figures = [
 screen = Screen()
 screen.colormode(255)
 
-t = Turtle()
 
-
-def process():
+def process(t: Turtle):
     for figure in figures:
         r = randint(0, 255)
         g = randint(0, 255)

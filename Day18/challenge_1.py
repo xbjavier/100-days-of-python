@@ -2,13 +2,15 @@ from random import random, randint
 from turtle import Turtle, Screen
 
 
-def draw_square_on_starting_point(posX: float, posY: float, startBackwards=False):
-    t = Turtle()
+def draw_square_on_starting_point(
+    t: Turtle, posX: float, posY: float, startBackwards=False
+):
     t.penup()
     t.setpos(posX, posY)
     if startBackwards:
         t.right(180)
     t.pendown()
+
     for i in range(4):
         t.forward(100)
         t.left(90)
