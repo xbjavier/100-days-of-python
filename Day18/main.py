@@ -5,6 +5,8 @@ from challenge_2 import challenge_2_dashed_line as challenge_2_process
 from challenge_3 import process as challenge_3_process
 from challenge_4 import process as challenge_4_process
 from challenge_5 import process as challenge_5_process
+from final import process as final_process
+
 
 screen = Screen()
 screen.colormode(255)
@@ -14,5 +16,7 @@ t = Turtle()
 # challenge_2_process(t, screen, 100)
 # challenge_3_process(t)
 # challenge_4_process(t, 3000)
-challenge_5_process(t, 100, 18)
+# challenge_5_process(t, 100, 3)
+
+final_process(t, screen, 10, 10, 3.5, "./Day18/image.jpg", 20)
 screen.exitonclick()
