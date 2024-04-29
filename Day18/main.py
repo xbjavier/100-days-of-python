@@ -18,5 +18,5 @@ t = Turtle()
 # challenge_4_process(t, 3000)
 # challenge_5_process(t, 100, 3)
 
-final_process(t, screen, 10, 10, 3.5, "./Day18/image.jpg", 20)
+final_process(t, screen, 20, 20, 3.5, "./Day18/image.jpg", 20)
 screen.exitonclick()

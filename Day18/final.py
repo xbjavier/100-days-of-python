@@ -27,6 +27,7 @@ def process(
 
     screensize(total_width, total_height)
     turtle.hideturtle()
+    turtle.speed(0)
 
     for i in range(rows):
         for j in range(col):
