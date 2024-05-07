@@ -23,3 +23,4 @@ I've created this repository to force myself to finish this course, I'll be uplo
 - [Day 16: OOP Coffee Machine](https://github.com/xbjavier/100-days-of-python/tree/main/Day16)
 - [Day 17: Quiz Project](https://github.com/xbjavier/100-days-of-python/tree/main/Day17) - This is not exactly the same as in the course, I have uppdated the code to use [open trivia database api](https://opentdb.com/api_config.php)
 - [Day 18: Turtle & Graphical User Interface](https://github.com/xbjavier/100-days-of-python/tree/main/Day18)
+- [Day 19: Intermediate - State, Order and High Order Functions](https://github.com/xbjavier/100-days-of-python/tree/main/Day19)
