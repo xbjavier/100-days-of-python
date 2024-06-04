@@ -25,3 +25,4 @@ I've created this repository to force myself to finish this course, I'll be uplo
 - [Day 18: Turtle & Graphical User Interface](https://github.com/xbjavier/100-days-of-python/tree/main/Day18)
 - [Day 19: Intermediate - State, Order and High Order Functions](https://github.com/xbjavier/100-days-of-python/tree/main/Day19)
 - [Day 20: Snake Game](https://github.com/xbjavier/100-days-of-python/tree/main/Day20)
+- [Day 24: Files, Directories and Paths](https://github.com/xbjavier/100-days-of-python/tree/main/Day24)
