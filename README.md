@@ -29,3 +29,4 @@ I've created this repository to force myself to finish this course, I'll be uplo
 - [Day 25: Working with csv data and pandas](https://github.com/xbjavier/100-days-of-python/tree/main/Day25)
 - [Day 26: List Comprehension and NATO alphabet](https://github.com/xbjavier/100-days-of-python/tree/main/Day26)
 - [Day 27: Tkinter, *args, **kwargs and gui programs](https://github.com/xbjavier/100-days-of-python/tree/main/Day27)
+- [Day 28: Tkinter, Dynamic Typing and the Pomodoro GUI Application](https://github.com/xbjavier/100-days-of-python/tree/main/Day28)
